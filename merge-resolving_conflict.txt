@@ -1,2 +1,4 @@
 test test test
-test test test
+merge-conflict-resolving-1
+merge-conflict-resolving-1
+
